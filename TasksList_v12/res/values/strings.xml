@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TasksList</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_tasks_view">TasksView</string>
+    <string name="title_activity_input_screen">InputScreen</string>
+    <string name="dateFormatHint">YYYY/MM/DD</string>
+    <string name="taskDescriptionHint">Description of Task</string>
+    <string name="normal_task">Normal Task</string>
+    <string name="urgent_task">Urgent Task</string>
+    <string name="submit">Submit</string>
+
+</resources>
